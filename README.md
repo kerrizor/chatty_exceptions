@@ -1,6 +1,6 @@
 # ChattyExceptions
 
-TODO: Write a gem description
+chatty_exceptions sends the message from an exception to OS X's `say` command, to help center your focus on the immediate error, rather than being distracted by something in the stack trace.
 
 ## Installation
 
